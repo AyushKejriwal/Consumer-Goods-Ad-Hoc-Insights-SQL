@@ -13,7 +13,7 @@
 
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director, decided to conduct a **SQL challenge** to evaluate candidates on both technical and soft skills.
 
-This project is my submission for that challenge as part of the [Codebasics Resume Project Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge).
+This project is my submission for that challenge as part of the [Codebasics Resume Project Challenge]([https://codebasics.io/challenge/codebasics-resume-project-challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)).
 
 ---
 
@@ -77,7 +77,7 @@ This project is my submission for that challenge as part of the [Codebasics Resu
 
 | Resource | Link |
 |----------|------|
-| 📽️ Video/Audio Presentation | [Watch here](#) |
+| 📽️ Video/Audio Presentation | [Watch here]() |
 | 📄 PDF Presentation | [Download here](#) |
 | ✍️ LinkedIn Post | [Read here](#) |
 
@@ -97,8 +97,8 @@ This project is my submission for that challenge as part of the [Codebasics Resu
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kejriwal/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushKejriwal)
 
 ---
 
