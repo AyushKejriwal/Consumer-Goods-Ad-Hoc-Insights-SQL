@@ -13,7 +13,7 @@
 
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director, decided to conduct a **SQL challenge** to evaluate candidates on both technical and soft skills.
 
-This project is my submission for that challenge as part of the [Codebasics Resume Project Challenge]([https://codebasics.io/challenge/codebasics-resume-project-challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)).
+This project is my submission for that challenge as part of the [Codebasics Resume Project Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7).
 
 ---
 
